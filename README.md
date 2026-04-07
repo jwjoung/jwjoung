@@ -30,8 +30,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-vercel-rouge.vercel.app/api?username=jwjoung&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-vercel-rouge.vercel.app/api/top-langs/?username=jwjoung&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-vercel-rouge.vercel.app/api?username=jwjoung&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-vercel-rouge.vercel.app/api/top-langs/?username=jwjoung&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" height="170" />
 </p>
 
 ---

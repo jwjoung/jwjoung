@@ -27,6 +27,16 @@
 
 ---
 
+### Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/search?query=aws+solutions+architect+associate">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="100" />
+  </a>
+</p>
+
+---
+
 ### GitHub Stats
 
 <p align="center">
